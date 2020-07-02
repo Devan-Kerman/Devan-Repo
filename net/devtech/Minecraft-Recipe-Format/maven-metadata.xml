@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.devtech</groupId>
+  <artifactId>Minecraft-Recipe-Format</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200702141837</lastUpdated>
+  </versioning>
+</metadata>
